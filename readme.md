@@ -12,15 +12,15 @@ Current date/time in different timezones.
 	
 	$now = (new WorldTime("Asia/Singapore"))->getDateTime();
 
-Expect: **YYYY-MM-DD HH:II:SS** format value in that timezone.
+Expect: **YYYY-MM-DD HH:II:SS** format value in __that__ timezone.
 
 
 ## Installation
 
 Use one of:
 
-	composer require anytizer/worldtime.php
-	composer global require anytizer/worldtime.php
+	composer require anytizer/worldtime.php:dev-master
+	composer global require anytizer/worldtime.php:dev-master
 
 
 ## @todo
