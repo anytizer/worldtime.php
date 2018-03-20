@@ -1,0 +1,5 @@
+/tests/vendor
+
+/vendor/
+/*.lock
+/tests.local/vendor

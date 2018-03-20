@@ -1,0 +1,14 @@
+{
+    "name": "anytizer/worldtime.php",
+    "description": "WorldTime",
+    "type": "library",
+    "license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"world\\": "./src/world"
+		}
+	},
+    "require": {
+        "php": "^7.1"
+    }
+}
