@@ -1,2 +1,5 @@
 {
+    "require": {
+        "anytizer/worldtime.php": "dev-master"
+    }
 }
