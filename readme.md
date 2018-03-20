@@ -15,9 +15,17 @@ Current date/time in different timezones.
 Expect: **YYYY-MM-DD HH:II:SS** format value in that timezone.
 
 
+## Installation
+
+Use one of:
+
+	composer require anytizer/worldtime.php
+	composer global require anytizer/worldtime.php
+
+
 ## @todo
 
-Support timezone calculation with HH:MM offset.
+ * Support timezone calculation with HH:MM offset.
 
 
 ## See
