@@ -1,5 +1,4 @@
-/tests/vendor
-
-/vendor/
-/*.lock
+/**/*.lock
 /tests.local/vendor
+/tests.remote/vendor
+/tests.global/vendor

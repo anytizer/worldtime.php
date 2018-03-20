@@ -1,7 +1,6 @@
 <?php
 namespace test;
 
-#require_once("../src/world/WordlTime.php");
 require_once("./vendor/autoload.php");
 
 use world\WorldTime;
